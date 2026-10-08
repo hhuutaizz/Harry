@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bài Thực Hành 05 - Kỹ năng số</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; background-color: #f4f4f9; color: #333; }
+        h1, h2 { color: #0056b3; }
+        .container { background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        img { max-width: 100%; height: auto; border: 1px solid #ddd; border-radius: 4px; margin-top: 10px; }
+        .footer { margin-top: 20px; font-size: 0.9em; color: #666; border-top: 1px solid #eee; padding-top: 10px; }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>BÀI THỰC HÀNH 05: TẠO, QUẢN LÝ VÀ CHIA SẺ NỘI DUNG SỐ</h1>
+        <p><strong>Họ và tên sinh viên:</strong> Phạm Hữu Tài</p>
+        <p><strong>Mã sinh viên:</strong> [Điền mã sinh viên của bạn]</p>
+
+        <h2>1. Infographic Lợi ích công nghệ số</h2>
+        <p>Sản phẩm infographic được thiết kế thông qua hỗ trợ của Canva AI:</p>
+        <img src="Inforgraphic.png" alt="Infographic Lợi ích công nghệ số">
+
+        <h2>2. Giao diện làm việc trên Canva</h2>
+        <img src="Ảnh màn hình Canva.png" alt="Ảnh chụp màn hình giao diện Canva">
+
+        <div class="footer">
+            <h3>Trích dẫn nguồn & Bản quyền</h3>
+            <ul>
+                <li><strong>Nội dung/Thiết kế:</strong> Tạo hỗ trợ bởi Canva AI (Magic Design).</li>
+                <li><strong>Hình ảnh:</strong> Lấy từ Unsplash với giấy phép CC0.</li>
+                <li><strong>Giấy phép áp dụng:</strong> Creative Commons Attribution (CC BY).</li>
+            </ul>
+        </div>
+    </div>
+
+</body>
+</html>
